@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Bengaluru Sample Features</name>
+    <Placemark>
+      <name>Bengaluru 1km Square Polygon</name>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              77.590000,12.970000,0
+              77.599218,12.970000,0
+              77.599218,12.978983,0
+              77.590000,12.978983,0
+              77.590000,12.970000,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Bengaluru 1km Line</name>
+      <LineString>
+        <coordinates>
+          77.590000,12.970000,0
+          77.599218,12.970000,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Bengaluru Landmark Point</name>
+      <Point>
+        <coordinates>
+          77.590000,12.970000,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

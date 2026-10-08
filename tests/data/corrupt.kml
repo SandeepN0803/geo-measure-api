@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Corrupt KML File</name>
+    <Placemark>
+      <name>Broken Tag Example
+      <Polygon>
+        <coordinates>77.59,12.97,0 77.60,12.97,0</Polygon>
+  </Document>
